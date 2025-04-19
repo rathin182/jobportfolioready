@@ -36,7 +36,7 @@ const HeroSec = () => {
       {/* Image Section */}
       <div className="w-full md:w-[40%] flex justify-center items-center">
         <img
-          src="../Images/heroIMG.png"
+          src="/Images/heroIMG.png"
           alt="hero"
           className="w-[150px] h-[150px] md:w-[250px] md:h-[250px] object-cover rounded-full bg-[#ec4040] p-1"
         />
