@@ -36,7 +36,7 @@ const Navigation = () => {
       }`}
     >
       <div className="flex justify-between items-center w-full h-16 px-4">
-        <h1 className="text-xl font-bold">Portfolio</h1>
+        <h1 className="text-xl font-bold">Rathin-WEB-Portfolio</h1>
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex gap-6">

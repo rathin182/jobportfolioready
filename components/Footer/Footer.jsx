@@ -6,8 +6,7 @@ const Footer = () => {
   return (
     <footer className="bg-zinc-800 text-white py-4 mt-8">
       <div className="text-center">
-        <p>&copy; {currentYear} YourWebsiteName. All rights reserved.</p>
-        <p className="text-sm">This website was made in 2023.</p>
+        <p>&copy; {currentYear} Rathin-Web. All rights reserved.</p>
       </div>
     </footer>
   )
