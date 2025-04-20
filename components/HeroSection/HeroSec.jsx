@@ -23,7 +23,7 @@ const HeroSec = () => {
         {/* 👇 Button Section */}
         <div className="mt-5">
           <a
-            href="/resume.pdf" // You can change this path to your actual resume file
+            href="https://drive.google.com/file/d/11nQtBr0AFVgYU4fXiPQafGOaydsIKf1q/view?usp=sharing" // You can change this path to your actual resume file
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-6 py-2 rounded-full bg-[#8245ec] text-white hover:bg-[#6936c5] transition duration-300 text-sm md:text-base"
